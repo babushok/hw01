@@ -9,4 +9,5 @@ int main()
     logger->info("version {} was started", version());
 
     return 0;
+
 }
